@@ -183,6 +183,7 @@ class Credits():
 
 # SplashPart1 runs for about a second, the loop then ends, 
 # meaning the function is not running anymore and the 2nd part can run. 
+time.sleep(1)
 SplashPart1.Window()
 SplashPart2.Window()
 
