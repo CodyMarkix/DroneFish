@@ -1,3 +1,5 @@
+# This project is abandoned. For now (As I'm not able to finish this game in time for the jam)
+
 # DroneFish, a game to spread #TeamSeas
 
 This game is quite simple, catch the trash with your drone. But be careful! You musn't touch the fish or they'll die.
